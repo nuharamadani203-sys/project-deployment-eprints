@@ -112,6 +112,9 @@ ufw allow https
 ```
 Browse hostname atau subdomain untuk menguji apakah EPrints sudah dapat diakses:
 <img width="1080" height="595" alt="image" src="https://github.com/user-attachments/assets/c0866bcb-9b6c-4faa-b0a4-6de9f54a2b2e" />
+<img width="1920" height="1080" alt="login eprints" src="https://github.com/user-attachments/assets/ab08d485-f6aa-403e-9bff-ca4ced3cf420" />
+a2b2e" />
+<img width="1920" height="1080" alt="udah login" src="https://github.com/user-attachments/assets/a1cc48b9-b0b1-4726-a55c-5c3594f19299" />
 
 ## 8. Konfigurasi HTTPS
 Install certbot:
