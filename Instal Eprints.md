@@ -23,7 +23,7 @@ apt install mysql-server mysql-client -y
 ```
 Login ke MySQL:
 ```bash
-mysql
+sudo mysql -u root -p
 ```
 
 ## 3. Membuat User Eprints di Mysql
